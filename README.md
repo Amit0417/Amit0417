@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar Mahour</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋,Welcome to My Github Profile</h1>
+<h3 align="center">I am Amit Kumar Mahour, A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit0417&label=Profile%20views&color=0e75b6&style=flat" alt="amit0417" /> </p>
 
