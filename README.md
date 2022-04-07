@@ -12,7 +12,7 @@ I am Amit Kumar Mahour, A passionate full stack web developer.
 
 - 📫 How to reach me **r.amit.mahour@gmail.com**
 
-- ⚡ Fun fact **I think I am funny because I have interest in almost everything I am always curious about things and always want to learn about them** 
+- ⚡ Fun fact **I think I am funny because I have interest in almost everything I am always curious about things and always want to learn more and more about them** 
 
 ![Alt Text](data/coding-freak.gif) 
 <hr>
