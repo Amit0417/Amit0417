@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=amit0417&label=Profile%20views&color=0e75b6&style=flat" alt="amit0417" /> 
-
 ## Hi 👋,Welcome to My Profile
 
 I am Amit Kumar Mahour, A passionate full stack web developer. 
