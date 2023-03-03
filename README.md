@@ -1,12 +1,6 @@
 ## Hi 👋,Welcome to My Profile
 
-I am Amit Kumar Mahour, A passionate full stack web developer. 
-
-
-
-- 🌱 I’m currently learning **Python & Django**
-
-- ✍️ I'm currently looking to contribute to **open source softwares** 
+I am Amit Kumar Mahour, A passionate FrontEnd developer. 
 
 - 📫 How to reach me **r.amit.mahour@gmail.com**
 
